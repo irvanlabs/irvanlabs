@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [ariq.web.id](ariq.web.id)
 
-- 📝 I regularly write articles on [ariq.web.id/blog](ariq.web.id/blog)
+- 📝 I regularly write articles on [blog.ariq.my.id](blog.ariq.my.id)
 
 - 📫 How to reach me **irvannaufal@ariq.my.id**
 
